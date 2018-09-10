@@ -1,0 +1,10 @@
+inflect==0.2.5
+jaraco.itertools==2.0
+more-itertools==2.4.1
+PyAudio==0.2.9
+pypiwin32==219
+pyttsx==1.1
+six==1.10.0
+SpeechRecognition==3.5.0
+wolframalpha==3.0
+xmltodict==0.10.2
